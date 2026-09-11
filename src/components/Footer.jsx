@@ -21,7 +21,7 @@ function Footer() {
         <div>
           <h4>Əlaqə</h4>
           <p>Bakı, Azərbaycan</p>
-          <p>+994 50 123 45 67</p>
+          <p>+994 55 277 48 57</p>
           <p>info@meyrapaxlava.az</p>
         </div>
       </div>

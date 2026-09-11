@@ -29,7 +29,7 @@ function Contact() {
               <strong>Ünvan:</strong> Bakı, Azərbaycan
             </p>
             <p>
-              <strong>Telefon:</strong> +994 50 123 45 67
+              <strong>Telefon:</strong> +994 55 277 48 57
             </p>
             <p>
               <strong>Email:</strong> info@meyrapaxlava.az
